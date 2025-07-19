@@ -8,4 +8,5 @@ phases:
 
 artifacts:
   files:
-    - '**/*'
+    - '**/*'  # <-- added 2 spaces here
+
